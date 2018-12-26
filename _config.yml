@@ -5,7 +5,7 @@ header-img: img/home-bg.jpg
 email: zhaopq77@gmail.com
 description: ""
 keyword: ""
-url: "https://hbgxsm95.github.io"              # your host, for absolute URL
+url: "http://www.zhaopeiqin.com"              # your host, for absolute URL
 baseurl: ""         # for example, '/blog' if your blog hosted on 'host/blog'
 
 
@@ -59,9 +59,9 @@ disqus_username: peiqinzhao
 
 # Analytics settings
 # Baidu Analytics
-ba_track_id: 2fe7d9eeff3d89e0249ead1abb5c582d 
+ba_track_id: 9e56b3829a2bf27bea4108706d0c6dc9d 
 # Google Analytics
-ga_track_id: 'UA-131352070-1'            # Format: UA-xxxxxx-xx
+ga_track_id: 'UA-131401559-1'            # Format: UA-xxxxxx-xx
 ga_domain: hbgxsm95.github.io
 
 
