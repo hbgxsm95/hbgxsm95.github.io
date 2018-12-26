@@ -59,10 +59,10 @@ disqus_username: peiqinzhao
 
 # Analytics settings
 # Baidu Analytics
-ba_track_id: 9e56b3829a2bf27bea4108706d0c6dc9d 
+ba_track_id: ed0e51694c8e34f1658dd0cc2180cd30 
 # Google Analytics
-ga_track_id: 'UA-131392460-1'            # Format: UA-xxxxxx-xx
-ga_domain: hbgxsm95.github.io
+ga_track_id: 'UA-131420805-1'            # Format: UA-xxxxxx-xx
+ga_domain: zhaopeiqin.com
 
 
 
