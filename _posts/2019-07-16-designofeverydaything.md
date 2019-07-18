@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:      "中国历代政治得失"
-subtitle:   "\"钱穆\""
-date:       2019-07-16 21:38:30
+title:      "Design of Everyday Things"
+subtitle:   "\"推开世界的Norman门\""
+date:       2019-07-16 21:00:30
 author:     "Peiqin"
 header-img: "img/in-post/reading/psychology/bg-post.jpg"
 tags:
