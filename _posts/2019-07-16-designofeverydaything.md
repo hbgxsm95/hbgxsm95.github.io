@@ -7,6 +7,8 @@ author:     "Peiqin"
 header-img: "img/in-post/reading/psychology/bg-post.jpg"
 tags:
     - Reading
+    - Design
+    - UI/UX
 ---
 
 > “Human Error? No, Bad Design”
