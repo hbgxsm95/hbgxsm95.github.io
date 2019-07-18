@@ -4,7 +4,7 @@ title:      "Design of Everyday Things"
 subtitle:   "\"推开世界的Norman门\""
 date:       2019-07-17 21:00:30
 author:     "Peiqin"
-header-img: "img/in-post/reading/design/null.png"
+header-img: "img/in-post/reading/psychology/bg-post.jpg"
 tags:
     - Reading
     - Design
